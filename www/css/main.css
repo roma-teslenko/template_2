@@ -1379,7 +1379,7 @@ nav{
 	margin: 0;
 }
 .leftFooterItems p{
-	margin-top: 30px;
+	margin-top: 27px;
 	text-align: left;
 	font-family: 'Roboto-Light';
 	font-size: 13px;
@@ -1391,7 +1391,7 @@ nav{
 #bottoms{
 	text-align: left;
 	font-family: 'Roboto-Regular';
-	font-size: 14px;
+	font-size: 12px;
 	text-transform: uppercase;
 	color: #fff;
 	margin-top: 20px;
@@ -1496,10 +1496,11 @@ nav{
 #copyriting p{
 	text-align: left;
 	font-family: 'Roboto-Regular';
-	font-size: 14px;
+	font-size: 13px;
 	color: #fff;
 	letter-spacing: 1.3px;
 	transition: all .3s;
+	line-height: 1.5;
 }
 /*____________________footer end____________________*/
 
