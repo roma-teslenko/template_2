@@ -1373,7 +1373,7 @@ nav{
 	margin: 50px auto;
 }
 .leftFooterItems{
-	width: 315px;
+	width: 290px;
 	height: 300px;
 	position: absolute;
 	margin: 0;
@@ -1399,7 +1399,7 @@ nav{
 	transition: all .3s;
 }
 .centerFooterItems{
-	width: 315px;
+	width: 290px;
 	height: 300px;
 	margin-left: 340px;
 	position: absolute;
@@ -1433,9 +1433,9 @@ nav{
 	color: #fff;
 }
 .rightFooterItems{
-	width: 315px;
+	width: 290px;
 	height: 300px;
-	margin-left: 700px;
+	margin-left: 660px;
 	position: absolute;
 }
 #stay{
@@ -1449,7 +1449,7 @@ nav{
 	transition: all .3s;
 }
 #in5{
-	width: 210px;
+	width: 190px;
 	height: 45px;
 	margin-top: 30px;
 	background-color: transparent;
@@ -1477,7 +1477,7 @@ nav{
 	background-color: #a29bb4;
 	opacity: 0.5;
 	margin-top: -46px;
-	margin-left: 220px;
+	margin-left: 200px;
 	position: absolute;
 }
 .socialBars{
