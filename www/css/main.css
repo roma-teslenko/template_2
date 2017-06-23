@@ -294,11 +294,19 @@ nav{
 	background-size: 100% 100%;
 	z-index: 0;
 }
-.videoText{
+.hoverEff{
 	width: 180px;
+	height: 200px;
+	margin: 300px auto;
+}
+.hoverEff:hover .videoText h1{
+	color: #00e0d0;
+}
+.videoText{
+/*	width: 180px;
 	height: 20px;
 	margin-top: 25px;
-	margin-left: 377px;
+	margin-left: 377px;*/
 }
 .videoText h1{
 	font-family: 'Roboto-Black';
@@ -314,8 +322,8 @@ nav{
 	color: #00e0d0;
 }
 .play{
-	margin-top: 280px;
-	margin-left: 410px;
+	margin-bottom: 20px;
+	margin-left: 30px;
 }
 /*____________________section video end____________________*/
 /*____________________section expertise start____________________*/
@@ -367,6 +375,9 @@ nav{
 	border-right: 1px solid #ebebeb;
 	border-bottom: 1px solid #ebebeb;
 }
+.webDesign:hover .webDesignText h1{
+	color: #00e0d0;
+}
 .brandingIdentity{
 	width: 300px;
 	height: 250px;
@@ -378,6 +389,9 @@ nav{
 	border-right: 1px solid #ebebeb;
 	border-bottom: 1px solid #ebebeb;	
 }
+.brandingIdentity:hover .brandingIdentityText h1{
+	color: #00e0d0;
+}
 .mobileApp{
 	width: 300px;
 	height: 250px;
@@ -387,6 +401,9 @@ nav{
 	position: absolute;
 	border-left: 1px solid #ebebeb;
 	border-bottom: 1px solid #ebebeb;
+}
+.mobileApp:hover .mobileAppText h1{
+	color: #00e0d0;
 }
 .searchEngine{
 	width: 300px;
@@ -398,6 +415,9 @@ nav{
 	position: absolute;
 	border-right: 1px solid #ebebeb;
 }
+.searchEngine:hover .searchEngineText h1{
+	color: #00e0d0;
+}
 .gameDev{
 	width: 300px;
 	height: 250px;
@@ -408,6 +428,9 @@ nav{
 	position: absolute;
 	border-right: 1px solid #ebebeb;
 }
+.gameDev:hover .gameDevText h1{
+	color: #00e0d0;
+}
 .madeWithLove{
 	width: 300px;
 	height: 250px;
@@ -416,6 +439,9 @@ nav{
 	padding-top: 15px;
 	position: absolute;
 	border-left: 1px solid #ebebeb;	
+}
+.madeWithLove:hover .madeWithLoveText h1{
+	color: #00e0d0;
 }
 .webDesignIcon{
 	margin-top: 36px;
@@ -472,7 +498,7 @@ nav{
 .brandingIdentityText h1:hover{
 	color: #00e0d0;
 }
-.mobileAppTxet h1{
+.mobileAppText h1{
 	text-align: center;
 	font-family: 'Roboto-Black';
 	font-size: 13px;
@@ -482,7 +508,7 @@ nav{
 	letter-spacing: 1px;
 	transition: all .3s;
 }
-.mobileAppTxet h1:hover{
+.mobileAppText h1:hover{
 	color: #00e0d0;
 }
 .searchEngine h1{
@@ -548,7 +574,7 @@ nav{
 	color: #8d8c90;
 	font-weight: none;
 }
-.mobileAppTxet p{
+.mobileAppText p{
 	margin-top: 35px;
 	padding-left: 33px;
 	padding-right: 33px;
