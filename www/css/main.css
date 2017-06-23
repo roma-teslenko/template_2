@@ -303,14 +303,13 @@ nav{
 	color: #00e0d0;
 }
 .videoText{
-/*	width: 180px;
-	height: 20px;
-	margin-top: 25px;
-	margin-left: 377px;*/
+	width: 170px;
+	height: 25px;
+	margin: 0;
 }
 .videoText h1{
 	font-family: 'Roboto-Black';
-	font-size: 16px;
+	font-size: 15px;
 	text-transform: uppercase;
 	margin: 5px;
 	color: #fff;
