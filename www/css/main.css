@@ -309,11 +309,10 @@ nav{
 }
 .videoText h1{
 	font-family: 'Roboto-Black';
-	font-size: 15px;
+	font-size: 13px;
 	text-transform: uppercase;
 	margin: 5px;
 	color: #fff;
-	letter-spacing: 1px;
 	text-decoration: none;
 	transition: all .3s;
 }
