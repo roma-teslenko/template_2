@@ -311,7 +311,7 @@ nav{
 	font-family: 'Roboto-Black';
 	font-size: 13px;
 	text-transform: uppercase;
-	margin: 5px;
+	margin-left: 20px;
 	color: #fff;
 	text-decoration: none;
 	transition: all .3s;
