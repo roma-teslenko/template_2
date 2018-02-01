@@ -50,7 +50,7 @@ nav{
 	text-decoration: none;
 	transition: all .3s;
 }
-.menu ul li a:hover{
+.menu ul a li:hover{
 	color: #000;
 }
 /*____________________navigation end____________________*/
@@ -385,7 +385,7 @@ nav{
 	padding-bottom: 15px;
 	position: absolute;
 	border-right: 1px solid #ebebeb;
-	border-bottom: 1px solid #ebebeb;	
+	border-bottom: 1px solid #ebebeb;
 }
 .brandingIdentity:hover .brandingIdentityText h1{
 	color: #00e0d0;
@@ -436,7 +436,7 @@ nav{
 	margin-left: 650px;
 	padding-top: 15px;
 	position: absolute;
-	border-left: 1px solid #ebebeb;	
+	border-left: 1px solid #ebebeb;
 }
 .madeWithLove:hover .madeWithLoveText h1{
 	color: #00e0d0;
@@ -1227,12 +1227,12 @@ nav{
 	letter-spacing: 0.7px;
 	line-height: 1.5;
 	font-weight: none;
-	opacity: 1; 
+	opacity: 1;
 	transition: opacity 0.3s ease;
 	padding-left: 15px;
 }
 #in1:focus::-webkit-input-placeholder{
-	opacity: 0; 
+	opacity: 0;
 	transition: opacity 0.3s ease;
 }
 #in2{
@@ -1247,12 +1247,12 @@ nav{
 	letter-spacing: 0.7px;
 	line-height: 1.5;
 	font-weight: none;
-	opacity: 1; 
+	opacity: 1;
 	transition: opacity 0.3s ease;
 	padding-left: 15px;
 }
 #in2:focus::-webkit-input-placeholder{
-	opacity: 0; 
+	opacity: 0;
 	transition: opacity 0.3s ease;
 }
 #in3{
@@ -1267,12 +1267,12 @@ nav{
 	letter-spacing: 0.7px;
 	line-height: 1.5;
 	font-weight: none;
-	opacity: 1; 
+	opacity: 1;
 	transition: opacity 0.3s ease;
 	padding-left: 15px;
 }
 #in3:focus::-webkit-input-placeholder{
-	opacity: 0; 
+	opacity: 0;
 	transition: opacity 0.3s ease;
 }
 #in4{
@@ -1287,12 +1287,12 @@ nav{
 	letter-spacing: 0.7px;
 	line-height: 1.5;
 	font-weight: none;
-	opacity: 1; 
+	opacity: 1;
 	transition: opacity 0.3s ease;
 	padding-left: 15px;
 }
 #in4:focus::-webkit-input-placeholder{
-	opacity: 0; 
+	opacity: 0;
 	transition: opacity 0.3s ease;
 }
 .contactForm button{
@@ -1486,13 +1486,13 @@ nav{
 	letter-spacing: 0.7px;
 	line-height: 1.5;
 	font-weight: none;
-	opacity: 1; 
+	opacity: 1;
 	transition: opacity 0.3s ease;
 	padding-left: 15px;
 	color: #bbb7c8;
 }
 #in5:focus::-webkit-input-placeholder{
-	opacity: 0; 
+	opacity: 0;
 	transition: opacity 0.3s ease;
 }
 .endingButton button{
@@ -1527,31 +1527,3 @@ nav{
 	line-height: 1.5;
 }
 /*____________________footer end____________________*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
